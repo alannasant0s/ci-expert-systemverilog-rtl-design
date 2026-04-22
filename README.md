@@ -1,2 +1,2 @@
-# ci-expert-verilog-rtl-design
-RTL design projects and hardware description exercises using classic Verilog. Created during the CI Expert residency.
+# ci-expert-systemverilog-rtl-design
+RTL design projects and hardware description exercises using SystemVerilog. Created during the CI Expert residency.
